@@ -1,5 +1,5 @@
 
-NewYork Taxi Prediction-
+# NewYork Taxi Fare Prediction -
 
 a)implement a plain end2end tensorflow model pipeline with EDA and visualizations etc
 
