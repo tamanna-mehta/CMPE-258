@@ -6,12 +6,13 @@ https://github.com/iamtrask/Grokking-Deep-Learning/blob/master/Chapter13%20-%20I
 
  
 
-Extra points : If you implement a new activation function, new optimizer and new loss function in this code.
 
- 
 
 2) MANDATORY : Build an CNN based image classifier (at least 3 - 5 categories) from a custom data set you acquire (either from images.google.com or other places
 
- 
+Image classification of Dog Breeds
 
-Implement in both keras as well as pytorch lightning (two colabs)
+Implemented in --
+
+2a) keras 
+2b) pytorch lightning (two colabs)
